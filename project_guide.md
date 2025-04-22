@@ -3,7 +3,7 @@
 ## Project Overview
 
 ### Entry Points
-- **Package**: `setup.py`
+- **Package**: `run_flow.py`
 
 ## File Structure
 ```
